@@ -28,6 +28,7 @@ setup(name='ofxstatement-paypal',
           'Operating System :: OS Independent'
       ],
       packages=find_packages('src'),
+      package_dir={'': 'src'},
       namespace_packages=['ofxstatement', 'ofxstatement.plugins'],
       entry_points={
           'ofxstatement': ['paypal = ofxstatement.plugins.paypal:PayPalPlugin']
