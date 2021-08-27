@@ -1,2 +1,2 @@
-ofxstatement>=0.5.0
+ofxstatement>=0.6.5
 click>=6.6
