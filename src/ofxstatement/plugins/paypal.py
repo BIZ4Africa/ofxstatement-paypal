@@ -90,10 +90,10 @@ class PayPalParser(CsvStatementParser):
         """
         self._setFileType()
         stmt = super(PayPalParser, self).parse()
-        # total_amount = sum(sl.amount for sl in stmt.lines)
-        # stmt.start_balance = D(stmt.end_balance) - total_amount
+        total_amount = sum(sl.amount for sl in stmt.lines)
+        stmt.end_balance = stmt.start_balance + total_amount
         # stmt.start_date= min(sl.date for sl in stmt.lines)
-        # statement.recalculate_balance(stmt)
+        statement.recalculate_balance(stmt)
         return stmt
 
     def split_records(self):
@@ -135,9 +135,6 @@ class PayPalParser(CsvStatementParser):
 
 
     def parse_record_csv(self, line):
-        if self.date_format is None:
-            self.date_format = "%d/%m/%Y" if len(line[0].split("/")[2]) == 4 else "%Y/%m/%d"
-
         id_idx = self.valid_header.index("Transaction ID")
         date_idx = self.valid_header.index("Date")
         name_idx = self.valid_header.index("Name")
@@ -146,6 +143,14 @@ class PayPalParser(CsvStatementParser):
         amount_idx = self.valid_header.index("Gross")
         currency_idx = self.valid_header.index("Currency")
         trn_type_idx = self.valid_header.index("Impact On Balance")
+        balance_idx = self.valid_header.index("Balance")
+
+        if self.date_format is None:
+            self.date_format = "%d/%m/%Y" if len(line[0].split("/")[2]) == 4 else "%Y/%m/%d"
+
+        if not self.statement.start_date:
+            self.statement.start_date = datetime.strptime(line[date_idx], self.date_format)
+            self.statement.start_balance = D(line[balance_idx].replace(',','.'))
 
         if not len(line[name_idx]) and not len(line[from_idx]) and not len(line[to_idx]):
             #Temporary  trick to skip conversion transactions
@@ -155,7 +160,7 @@ class PayPalParser(CsvStatementParser):
         smt_line.id = line[id_idx]
         smt_line.date = datetime.strptime(line[date_idx], self.date_format)
         smt_line.currency = line[currency_idx]
-        smt_line.amount = float(line[amount_idx].replace(',','.'))
+        smt_line.amount = D(line[amount_idx].replace(',','.'))
         if line[trn_type_idx][0:1].upper() == "C":
             smt_line.trntype = "CREDIT"
         elif line[trn_type_idx][0:1].upper() == "D":
