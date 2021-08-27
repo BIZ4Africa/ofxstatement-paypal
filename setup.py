@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+from setuptools import find_packages
 from distutils.core import setup
 
 version = '1.0.0'
-with open('README.rst') as f:
+with open('README.md') as f:
     long_description = f.read()
 
 setup(name='ofxstatement-paypal',
@@ -14,6 +15,7 @@ setup(name='ofxstatement-paypal',
       url='https://github.com/themalkolm/ofxstatement-paypal',
       description=('ofxstatement plugins for paypal'),
       long_description=long_description,
+      long_description_content_type='text/markdown',
       license='Apache License 2.0',
       keywords=['ofx', 'ofxstatement', 'paypal'],
       classifiers=[
@@ -25,7 +27,7 @@ setup(name='ofxstatement-paypal',
           'Environment :: Console',
           'Operating System :: OS Independent'
       ],
-      packages=['ofxstatement', 'ofxstatement.plugins'],
+      packages=find_packages('src'),
       namespace_packages=['ofxstatement', 'ofxstatement.plugins'],
       entry_points={
           'ofxstatement': ['paypal = ofxstatement.plugins.paypal:PayPalPlugin']
