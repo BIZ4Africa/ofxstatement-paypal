@@ -128,7 +128,7 @@ class PayPalParser(CsvStatementParser):
         smt_line.id = line[id_idx]
         smt_line.date = datetime.strptime(line[date_idx], self.date_format)
         smt_line.currency = line[currency_idx]
-        smt_line.amount = D(line[amount_idx].replace(',','.'))
+        smt_line.amount = D(line[amount_idx].replace(',','.').replace(u'\xa0',''))
         smt_line.trntype = "DEBIT" if smt_line.amount < 0 else "CREDIT"
 
         #Build memo line
