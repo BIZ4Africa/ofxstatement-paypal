@@ -26,7 +26,6 @@ python3 setup.py install
 ```
 
 ## Usage
-
 From Paypal Web interface, download a CSV personnalized report for the period you wish.
 
 ```

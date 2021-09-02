@@ -1,129 +1,14 @@
-Date,Heure,Fuseau horaire,Description,Devise,Brut,Frais,Net,Solde,N° de transaction,De l'adresse email,Nom,Nom de la banque,Compte bancaire,Montant des frais de livraison et de traitement,TVA,Numéro de facture,Numéro de la transaction de référence
-1/1/2021,00:37:18,America/Los_Angeles,Conversion de devise standard,CDF,"-3025,54",0,"-3025,54","-3025,54",8TG93162JF3342324,,,,,0,0,139643740-TPAL7579472F,12Y48613869993439
-1/1/2021,00:37:18,America/Los_Angeles,Virement par carte bancaire standard,CDF,"3025,54",0,"3025,54",0,9U130921SJ0551544,,,,8196,0,0,139643740-TPAL7579472F,12Y48613869993439
-1/1/2021,00:37:18,America/Los_Angeles,Paiement préapprouvé d'un utilisateur de facture de paiement,EUR,"-1,2",0,"-1,2","-1,2",12Y48613869993439,paypal@ovh.net,OVH,,,0,0,139643740-TPAL7579472F,8XP09951U6007223S
-1/1/2021,00:37:18,America/Los_Angeles,Conversion de devise standard,EUR,"1,2",0,"1,2",0,1AM00660BV361841A,,,,,0,0,139643740-TPAL7579472F,12Y48613869993439
-1/17/2021,19:37:18,America/Los_Angeles,Paiement préapprouvé d'un utilisateur de facture de paiement,USD,"-9,99",0,"-9,99","-9,99",5M5282599M757994U,paypal_row@netflix.com,Netflix.com,,,0,0,44608946718,B-29C065641H103923F
-1/17/2021,19:37:18,America/Los_Angeles,Conversion de devise standard,USD,"9,99",0,"9,99",0,6GT11809NA747921F,,,,,0,0,44608946718,5M5282599M757994U
-1/17/2021,19:37:18,America/Los_Angeles,Virement par carte bancaire standard,CDF,"20516,96",0,"20516,96","20516,96",9AR64993JE9966453,,,,8196,0,0,44608946718,5M5282599M757994U
-1/17/2021,19:37:18,America/Los_Angeles,Conversion de devise standard,CDF,"-20516,96",0,"-20516,96",0,80Y31404P6639091E,,,,,0,0,44608946718,5M5282599M757994U
-1/2/2021,10:03:19,America/Los_Angeles,Conversion de devise standard,CDF,"-259263,43",0,"-259263,43","-259263,43",9WC74297MU121771N,,,,,0,0,140149580-TPAL7643253F,6CF58172XN020825J
-1/2/2021,10:03:19,America/Los_Angeles,Virement par carte bancaire standard,CDF,"259263,43",0,"259263,43",0,92D96684NL702683C,,,,8196,0,0,140149580-TPAL7643253F,6CF58172XN020825J
-1/2/2021,10:03:19,America/Los_Angeles,Paiement préapprouvé d'un utilisateur de facture de paiement,EUR,"-102,83",0,"-102,83","-102,83",6CF58172XN020825J,paypal@ovh.net,OVH,,,0,0,140149580-TPAL7643253F,8LH38206FV640282W
-1/2/2021,10:03:19,America/Los_Angeles,Conversion de devise standard,EUR,"102,83",0,"102,83",0,3L67903627438635U,,,,,0,0,140149580-TPAL7643253F,6CF58172XN020825J
-1/31/2021,22:22:23,America/Los_Angeles,Virement par carte bancaire standard,CDF,"2998,6",0,"2998,6","2998,6",5U774510YS0311836,,,,8196,0,0,141550088-TPAL8027223F,6DW0555857116094S
-1/31/2021,22:22:23,America/Los_Angeles,Conversion de devise standard,CDF,"-2998,6",0,"-2998,6",0,4BD23133PR713135V,,,,,0,0,141550088-TPAL8027223F,6DW0555857116094S
-1/31/2021,22:22:23,America/Los_Angeles,Paiement préapprouvé d'un utilisateur de facture de paiement,EUR,"-1,2",0,"-1,2","-1,2",6DW0555857116094S,paypal@ovh.net,OVH,,,0,0,141550088-TPAL8027223F,7V186562N91163220
-1/31/2021,22:22:23,America/Los_Angeles,Conversion de devise standard,EUR,"1,2",0,"1,2",0,28308503PN206131V,,,,,0,0,141550088-TPAL8027223F,6DW0555857116094S
-2/17/2021,18:58:59,America/Los_Angeles,Paiement préapprouvé d'un utilisateur de facture de paiement,USD,"-9,99",0,"-9,99","-9,99",72891339LL450334G,paypal_row@netflix.com,Netflix.com,,,0,0,45459303069,B-29C065641H103923F
-2/17/2021,18:58:59,America/Los_Angeles,Conversion de devise standard,USD,"9,99",0,"9,99",0,8B5471655X942533J,,,,,0,0,45459303069,72891339LL450334G
-2/17/2021,18:58:59,America/Los_Angeles,Conversion de devise standard,CDF,"-20559,63",0,"-20559,63","-20559,63",4CK21801934928157,,,,,0,0,45459303069,72891339LL450334G
-2/17/2021,18:58:59,America/Los_Angeles,Virement par carte bancaire standard,CDF,"20559,63",0,"20559,63",0,1RF60870XJ9728800,,,,8196,0,0,45459303069,72891339LL450334G
-2/2/2021,14:29:25,America/Los_Angeles,Conversion de devise standard,CDF,"-265813,34",0,"-265813,34","-265813,34",3W011262VY9324009,,,,,0,0,142191069-TPAL8131862F,4F4399608F2725012
-2/2/2021,14:29:25,America/Los_Angeles,Virement par carte bancaire standard,CDF,"265813,34",0,"265813,34",0,61T406990R104262C,,,,8196,0,0,142191069-TPAL8131862F,4F4399608F2725012
-2/2/2021,14:29:25,America/Los_Angeles,Paiement préapprouvé d'un utilisateur de facture de paiement,EUR,"-106,46",0,"-106,46","-106,46",4F4399608F2725012,paypal@ovh.net,OVH,,,0,0,142191069-TPAL8131862F,193739322K279232E
-2/2/2021,14:29:25,America/Los_Angeles,Conversion de devise standard,EUR,"106,46",0,"106,46",0,8BH66772EN026962D,,,,,0,0,142191069-TPAL8131862F,4F4399608F2725012
-2/26/2021,07:19:20,America/Los_Angeles,Paiement sur site marchand,USD,"-524,82",0,"-524,82","-524,82",1NG0485427443724G,paypal@odoo.com,Odoo SA,,,0,0,,
-2/26/2021,07:19:20,America/Los_Angeles,Conversion de devise standard,USD,"524,82",0,"524,82",0,7RF00903KS601112T,,,,,0,0,,1NG0485427443724G
-2/26/2021,07:19:20,America/Los_Angeles,Virement par carte bancaire standard,CDF,"1079161,12",0,"1079161,12","1079161,12",3N089578SB1276405,,,,8196,0,0,,1NG0485427443724G
-2/26/2021,07:19:20,America/Los_Angeles,Conversion de devise standard,CDF,"-1079161,12",0,"-1079161,12",0,6UK98140UC217542D,,,,,0,0,,1NG0485427443724G
-2/28/2021,22:19:29,America/Los_Angeles,Virement par carte bancaire standard,CDF,"3004,69",0,"3004,69","3004,69",7TC71344VW0072448,,,,8196,0,0,143505238-TPAL8478695F,1MT701612K991193T
-2/28/2021,22:19:29,America/Los_Angeles,Conversion de devise standard,CDF,"-3004,69",0,"-3004,69",0,3WT28303W4987373L,,,,,0,0,143505238-TPAL8478695F,1MT701612K991193T
-2/28/2021,22:19:29,America/Los_Angeles,Paiement préapprouvé d'un utilisateur de facture de paiement,EUR,"-1,2",0,"-1,2","-1,2",1MT701612K991193T,paypal@ovh.net,OVH,,,0,0,143505238-TPAL8478695F,4G261170WN392113L
-2/28/2021,22:19:29,America/Los_Angeles,Conversion de devise standard,EUR,"1,2",0,"1,2",0,8U494100G1462802R,,,,,0,0,143505238-TPAL8478695F,1MT701612K991193T
-2/3/2021,00:01:21,America/Los_Angeles,Paiement express,USD,-49,0,-49,-49,8KU971540G9554148,store@ninjaforms.com,Saturday Drive Inc,,,0,0,,
-2/3/2021,00:01:21,America/Los_Angeles,Conversion de devise standard,USD,49,0,49,0,54D35072SF823882F,,,,,0,0,,8KU971540G9554148
-2/3/2021,00:01:21,America/Los_Angeles,Conversion de devise standard,CDF,"-100746,04",0,"-100746,04","-100746,04",3R5401758D4485528,,,,,0,0,,8KU971540G9554148
-2/3/2021,00:01:21,America/Los_Angeles,Virement par carte bancaire standard,CDF,"100746,04",0,"100746,04",0,75M59462YH048122K,,,,8196,0,0,,8KU971540G9554148
-3/17/2021,19:10:40,America/Los_Angeles,Paiement préapprouvé d'un utilisateur de facture de paiement,USD,"-9,99",0,"-9,99","-9,99",88744900UT462605T,paypal_row@netflix.com,Netflix.com,,,0,0,46314109008,B-29C065641H103923F
-3/17/2021,19:10:40,America/Los_Angeles,Conversion de devise standard,USD,"9,99",0,"9,99",0,7CK665074B6673445,,,,,0,0,46314109008,88744900UT462605T
-3/17/2021,19:10:40,America/Los_Angeles,Conversion de devise standard,CDF,"-20591,89",0,"-20591,89","-20591,89",36R21038GB548500C,,,,,0,0,46314109008,88744900UT462605T
-3/17/2021,19:10:40,America/Los_Angeles,Virement par carte bancaire standard,CDF,"20591,89",0,"20591,89",0,40Y39984KM831361P,,,,8196,0,0,46314109008,88744900UT462605T
-3/2/2021,11:22:57,America/Los_Angeles,Virement par carte bancaire standard,CDF,"337077,87",0,"337077,87","337077,87",51C40771PL7075518,,,,8196,0,0,144104050-TPAL8594300F,0EN42536A7080053C
-3/2/2021,11:22:57,America/Los_Angeles,Conversion de devise standard,CDF,"-337077,87",0,"-337077,87",0,9ND23686T49569341,,,,,0,0,144104050-TPAL8594300F,0EN42536A7080053C
-3/2/2021,11:22:57,America/Los_Angeles,Paiement préapprouvé d'un utilisateur de facture de paiement,EUR,"-135,48",0,"-135,48","-135,48",0EN42536A7080053C,paypal@ovh.net,OVH,,,0,0,144104050-TPAL8594300F,7926368178704454H
-3/2/2021,11:22:57,America/Los_Angeles,Conversion de devise standard,EUR,"135,48",0,"135,48",0,9EK09099J5043645B,,,,,0,0,144104050-TPAL8594300F,0EN42536A7080053C
-3/28/2021,14:00:23,America/Los_Angeles,Paiement sur site marchand,USD,"-968,92",0,"-968,92","-968,92",55V85060EU6647532,paypal@odoo.com,Odoo SA,,,0,0,,
-3/28/2021,14:00:23,America/Los_Angeles,Conversion de devise standard,USD,"968,92",0,"968,92",0,1DK79434HT667214P,,,,,0,0,,55V85060EU6647532
-3/28/2021,14:00:23,America/Los_Angeles,Virement par carte bancaire standard,CDF,"1994965,91",0,"1994965,91","1994965,91",8CL18997LJ167400A,,,,8196,0,0,,55V85060EU6647532
-3/28/2021,14:00:23,America/Los_Angeles,Conversion de devise standard,CDF,"-1994965,91",0,"-1994965,91",0,5Y5417214N594832B,,,,,0,0,,55V85060EU6647532
-3/3/2021,04:36:42,America/Los_Angeles,Paiement sur site marchand,USD,"-25,59",0,"-25,59","-25,59",4N937024507201633,paypal@odoo.com,Odoo SA,,,0,0,,
-3/3/2021,04:36:42,America/Los_Angeles,Conversion de devise standard,USD,"25,59",0,"25,59",0,7NN416005D916402A,,,,,0,0,,4N937024507201633
-3/3/2021,04:36:42,America/Los_Angeles,Virement par carte bancaire standard,CDF,"52622,1",0,"52622,1","52622,1",3Y659032PE485372H,,,,8196,0,0,,4N937024507201633
-3/3/2021,04:36:42,America/Los_Angeles,Conversion de devise standard,CDF,"-52622,1",0,"-52622,1",0,3EG54321R8853413M,,,,,0,0,,4N937024507201633
-4/1/2021,00:23:51,America/Los_Angeles,Conversion de devise standard,CDF,"-223048,64",0,"-223048,64","-223048,64",8N366399BR6039314,,,,,0,0,145708083-TPAL9050712F,22L42343KF766510V
-4/1/2021,00:23:51,America/Los_Angeles,Virement par carte bancaire standard,CDF,"223048,64",0,"223048,64",0,12262528C0257074B,,,,8196,0,0,145708083-TPAL9050712F,22L42343KF766510V
-4/1/2021,00:23:51,America/Los_Angeles,Paiement préapprouvé d'un utilisateur de facture de paiement,EUR,"-91,94",0,"-91,94","-91,94",22L42343KF766510V,paypal@ovh.net,OVH,,,0,0,145708083-TPAL9050712F,6BL18235H37451241
-4/1/2021,00:23:51,America/Los_Angeles,Conversion de devise standard,EUR,"91,94",0,"91,94",0,5XT98276U0543341G,,,,,0,0,145708083-TPAL9050712F,22L42343KF766510V
-4/17/2021,19:13:58,America/Los_Angeles,Paiement préapprouvé d'un utilisateur de facture de paiement,USD,"-9,99",0,"-9,99","-9,99",8MV2692803022442A,paypal_row@netflix.com,Netflix.com,,,0,0,47138585285,B-29C065641H103923F
-4/17/2021,19:13:58,America/Los_Angeles,Conversion de devise standard,USD,"9,99",0,"9,99",0,8VW81067085702021,,,,,0,0,47138585285,8MV2692803022442A
-4/17/2021,19:13:58,America/Los_Angeles,Virement par carte bancaire standard,CDF,"20591,89",0,"20591,89","20591,89",9ER64948JX605933G,,,,8196,0,0,47138585285,8MV2692803022442A
-4/17/2021,19:13:58,America/Los_Angeles,Conversion de devise standard,CDF,"-20591,89",0,"-20591,89",0,3FE0910105080400G,,,,,0,0,47138585285,8MV2692803022442A
-4/20/2021,02:20:52,America/Los_Angeles,Paiement sur site marchand,USD,"-31,68",0,"-31,68","-31,68",6SY87240FT418370C,paypal@odoo.com,Odoo SA,,,0,0,,
-4/20/2021,02:20:52,America/Los_Angeles,Conversion de devise standard,USD,"31,68",0,"31,68",0,2N932355A3884244L,,,,,0,0,,6SY87240FT418370C
-4/20/2021,02:20:52,America/Los_Angeles,Conversion de devise standard,CDF,"-65300,4",0,"-65300,4","-65300,4",91B149202D2575431,,,,,0,0,,6SY87240FT418370C
-4/20/2021,02:20:52,America/Los_Angeles,Virement par carte bancaire standard,CDF,"65300,4",0,"65300,4",0,4YX062152Y7589546,,,,8196,0,0,,6SY87240FT418370C
-4/29/2021,09:03:02,America/Los_Angeles,Paiement sur site marchand,USD,"-124,86",0,"-124,86","-124,86",80862558TG990410W,paypal@odoo.com,Odoo SA,,,0,0,,
-4/29/2021,09:03:02,America/Los_Angeles,Conversion de devise standard,USD,"124,86",0,"124,86",0,73F84498G1076263K,,,,,0,0,,80862558TG990410W
-4/29/2021,09:03:02,America/Los_Angeles,Virement par carte bancaire standard,CDF,"257744,86",0,"257744,86","257744,86",9M625364SA648082A,,,,8196,0,0,,80862558TG990410W
-4/29/2021,09:03:02,America/Los_Angeles,Conversion de devise standard,CDF,"-257744,86",0,"-257744,86",0,5GN812411F901452L,,,,,0,0,,80862558TG990410W
-5/1/2021,01:20:52,America/Los_Angeles,Virement par carte bancaire standard,CDF,"260361,41",0,"260361,41","260361,41",3G638091XT261553A,,,,8196,0,0,147696749-TPAL9570618F,4CY10499PJ118420P
-5/1/2021,01:20:52,America/Los_Angeles,Conversion de devise standard,CDF,"-260361,41",0,"-260361,41",0,7EC1010060165825A,,,,,0,0,147696749-TPAL9570618F,4CY10499PJ118420P
-5/1/2021,01:20:52,America/Los_Angeles,Paiement préapprouvé d'un utilisateur de facture de paiement,EUR,"-104,03",0,"-104,03","-104,03",4CY10499PJ118420P,paypal@ovh.net,OVH,,,0,0,147696749-TPAL9570618F,68314085KY429262V
-5/1/2021,01:20:52,America/Los_Angeles,Conversion de devise standard,EUR,"104,03",0,"104,03",0,2CD54920R7617601H,,,,,0,0,147696749-TPAL9570618F,4CY10499PJ118420P
-5/14/2021,02:13:45,America/Los_Angeles,Paiement sur site marchand,USD,"-824,51",0,"-824,51","-824,51",5HL719757U8712452,paypal@odoo.com,Odoo SA,,,0,0,,
-5/14/2021,02:13:45,America/Los_Angeles,Conversion de devise standard,USD,"824,51",0,"824,51",0,99L041722Y824584N,,,,,0,0,,5HL719757U8712452
-5/14/2021,02:13:45,America/Los_Angeles,Virement par carte bancaire standard,CDF,"1703643,79",0,"1703643,79","1703643,79",2YM47754SA4896044,,,,8196,0,0,,5HL719757U8712452
-5/14/2021,02:13:45,America/Los_Angeles,Conversion de devise standard,CDF,"-1703643,79",0,"-1703643,79",0,93P86054YK491071A,,,,,0,0,,5HL719757U8712452
-5/17/2021,18:45:55,America/Los_Angeles,Paiement préapprouvé d'un utilisateur de facture de paiement,USD,"-9,99",0,"-9,99","-9,99",4DH94254984452100,paypal_row@netflix.com,Netflix.com,,,0,0,47998420742,B-29C065641H103923F
-5/17/2021,18:45:55,America/Los_Angeles,Conversion de devise standard,USD,"9,99",0,"9,99",0,5G159169V6447020C,,,,,0,0,47998420742,4DH94254984452100
-5/17/2021,18:45:55,America/Los_Angeles,Virement par carte bancaire standard,CDF,"20641,84",0,"20641,84","20641,84",7B374127JE046962W,,,,8196,0,0,47998420742,4DH94254984452100
-5/17/2021,18:45:55,America/Los_Angeles,Conversion de devise standard,CDF,"-20641,84",0,"-20641,84",0,86270340S5772814F,,,,,0,0,47998420742,4DH94254984452100
-5/31/2021,22:13:13,America/Los_Angeles,Virement par carte bancaire standard,CDF,"3025,99",0,"3025,99","3025,99",92L57475A55946412,,,,8196,0,0,149490100-TPAL10070626F,06H62062HX559794J
-5/31/2021,22:13:13,America/Los_Angeles,Conversion de devise standard,CDF,"-3025,99",0,"-3025,99",0,10U279606C327622F,,,,,0,0,149490100-TPAL10070626F,06H62062HX559794J
-5/31/2021,22:13:13,America/Los_Angeles,Paiement préapprouvé d'un utilisateur de facture de paiement,EUR,"-1,2",0,"-1,2","-1,2",06H62062HX559794J,paypal@ovh.net,OVH,,,0,0,149490100-TPAL10070626F,7JY56942VU534561D
-5/31/2021,22:13:13,America/Los_Angeles,Conversion de devise standard,EUR,"1,2",0,"1,2",0,055748993F525205Y,,,,,0,0,149490100-TPAL10070626F,06H62062HX559794J
-6/11/2021,07:54:38,America/Los_Angeles,Paiement préapprouvé d'un utilisateur de facture de paiement,USD,-25,0,-25,-25,6K364544RL210184G,paypal-ads-ireland2@fb.com,Facebook,,,0,0,P4030614180384414,B-32T613547G013861E
-6/11/2021,07:54:38,America/Los_Angeles,Conversion de devise standard,USD,25,0,25,0,91X12013J2630534C,,,,,0,0,P4030614180384414,6K364544RL210184G
-6/11/2021,07:54:38,America/Los_Angeles,Conversion de devise standard,CDF,"-51661,46",0,"-51661,46","-51661,46",8KN01095VE1509814,,,,,0,0,P4030614180384414,6K364544RL210184G
-6/11/2021,07:54:38,America/Los_Angeles,Virement par carte bancaire standard,CDF,"51661,46",0,"51661,46",0,4BV28174BB3231906,,,,8196,0,0,P4030614180384414,6K364544RL210184G
-6/14/2021,08:00:16,America/Los_Angeles,Paiement sur site marchand,USD,"-50,31",0,"-50,31","-50,31",6FK946641T364732E,paypal@odoo.com,Odoo SA,,,0,0,,
-6/14/2021,08:00:16,America/Los_Angeles,Conversion de devise standard,USD,"50,31",0,"50,31",0,6T338026U58433040,,,,,0,0,,6FK946641T364732E
-6/14/2021,08:00:16,America/Los_Angeles,Virement par carte bancaire standard,CDF,"103953,04",0,"103953,04","103953,04",0PN78287ST198623F,,,,8196,0,0,,6FK946641T364732E
-6/14/2021,08:00:16,America/Los_Angeles,Conversion de devise standard,CDF,"-103953,04",0,"-103953,04",0,1L819492CA724964K,,,,,0,0,,6FK946641T364732E
-6/16/2021,16:07:39,America/Los_Angeles,Paiement préapprouvé d'un utilisateur de facture de paiement,USD,-25,0,-25,-25,829611559E679470M,paypal-ads-ireland2@fb.com,Facebook,,,0,0,P3933948093384356,B-32T613547G013861E
-6/16/2021,16:07:39,America/Los_Angeles,Conversion de devise standard,USD,25,0,25,0,1HY644414M188240D,,,,,0,0,P3933948093384356,829611559E679470M
-6/16/2021,16:07:39,America/Los_Angeles,Conversion de devise standard,CDF,"-51656,25",0,"-51656,25","-51656,25",6HL219200U593521V,,,,,0,0,P3933948093384356,829611559E679470M
-6/16/2021,16:07:39,America/Los_Angeles,Virement par carte bancaire standard,CDF,"51656,25",0,"51656,25",0,34A07299W12195335,,,,8196,0,0,P3933948093384356,829611559E679470M
-6/17/2021,18:41:14,America/Los_Angeles,Paiement préapprouvé d'un utilisateur de facture de paiement,USD,"-9,99",0,"-9,99","-9,99",62F32572NW361963B,paypal_row@netflix.com,Netflix.com,,,0,0,48845684040,B-29C065641H103923F
-6/17/2021,18:41:14,America/Los_Angeles,Conversion de devise standard,USD,"9,99",0,"9,99",0,5L247425FV076045P,,,,,0,0,48845684040,62F32572NW361963B
-6/17/2021,18:41:14,America/Los_Angeles,Conversion de devise standard,CDF,"-20641,84",0,"-20641,84","-20641,84",38H63183VK762513W,,,,,0,0,48845684040,62F32572NW361963B
-6/17/2021,18:41:14,America/Los_Angeles,Virement par carte bancaire standard,CDF,"20641,84",0,"20641,84",0,2SY35664UX9004847,,,,8196,0,0,48845684040,62F32572NW361963B
-6/2/2021,10:47:54,America/Los_Angeles,Conversion de devise standard,CDF,"-229740,87",0,"-229740,87","-229740,87",72C331936D784300K,,,,,0,0,150081281-TPAL10164515F,8MP89353PS8912300
-6/2/2021,10:47:54,America/Los_Angeles,Virement par carte bancaire standard,CDF,"229740,87",0,"229740,87",0,8MP98683585582836,,,,8196,0,0,150081281-TPAL10164515F,8MP89353PS8912300
-6/2/2021,10:47:54,America/Los_Angeles,Paiement préapprouvé d'un utilisateur de facture de paiement,EUR,"-90,74",0,"-90,74","-90,74",8MP89353PS8912300,paypal@ovh.net,OVH,,,0,0,150081281-TPAL10164515F,6T307291A32490522
-6/2/2021,10:47:54,America/Los_Angeles,Conversion de devise standard,EUR,"90,74",0,"90,74",0,4E00448441053600F,,,,,0,0,150081281-TPAL10164515F,8MP89353PS8912300
-7/17/2021,19:31:05,America/Los_Angeles,Paiement préapprouvé d'un utilisateur de facture de paiement,USD,"-9,99",0,"-9,99","-9,99",3WK08442V11327020,paypal_row@netflix.com,Netflix.com,,,0,0,49796960770,B-29C065641H103923F
-7/17/2021,19:31:05,America/Los_Angeles,Conversion de devise standard,USD,"9,99",0,"9,99",0,8G611621MX910661T,,,,,0,0,49796960770,3WK08442V11327020
-7/17/2021,19:31:05,America/Los_Angeles,Virement par carte bancaire standard,CDF,"20614,78",0,"20614,78","20614,78",3A185816GE4693447,,,,8196,0,0,49796960770,3WK08442V11327020
-7/17/2021,19:31:05,America/Los_Angeles,Conversion de devise standard,CDF,"-20614,78",0,"-20614,78",0,51E80013U2902141G,,,,,0,0,49796960770,3WK08442V11327020
-7/19/2021,09:56:17,America/Los_Angeles,Paiement préapprouvé d'un utilisateur de facture de paiement,USD,-69,0,-69,-69,20G96067S69878043,payments@audiotheme.com,"AudioTheme, LLC",,,0,0,WC-17508,B-37685366BG2952719
-7/19/2021,09:56:17,America/Los_Angeles,Conversion de devise standard,USD,69,0,69,0,5B411674X5315524D,,,,,0,0,WC-17508,20G96067S69878043
-7/19/2021,09:56:17,America/Los_Angeles,Virement par carte bancaire standard,CDF,"142384,38",0,"142384,38","142384,38",6W1707256V8547641,,,,8196,0,0,WC-17508,20G96067S69878043
-7/19/2021,09:56:17,America/Los_Angeles,Conversion de devise standard,CDF,"-142384,38",0,"-142384,38",0,6F8827392C164550Y,,,,,0,0,WC-17508,20G96067S69878043
-7/3/2021,12:29:37,America/Los_Angeles,Virement par carte bancaire standard,CDF,"320295,29",0,"320295,29","320295,29",75V38183LE1066014,,,,8196,0,0,152099698-TPAL10676916F,00299098P3766705U
-7/3/2021,12:29:37,America/Los_Angeles,Conversion de devise standard,CDF,"-320295,29",0,"-320295,29",0,0ED65667K56407828,,,,,0,0,152099698-TPAL10676916F,00299098P3766705U
-7/3/2021,12:29:37,America/Los_Angeles,Paiement préapprouvé d'un utilisateur de facture de paiement,EUR,"-130,62",0,"-130,62","-130,62",00299098P3766705U,paypal@ovh.net,OVH,,,0,0,152099698-TPAL10676916F,576733808N4385437
-7/3/2021,12:29:37,America/Los_Angeles,Conversion de devise standard,EUR,"130,62",0,"130,62",0,63W92132E42691705,,,,,0,0,152099698-TPAL10676916F,00299098P3766705U
-7/30/2021,14:00:53,America/Los_Angeles,Conversion de devise standard,CDF,"-677466,91",0,"-677466,91","-677466,91",7JF94589B1768512K,,,,,0,0,P-01977658,8AB58159D3898574U
-7/30/2021,14:00:53,America/Los_Angeles,Virement par carte bancaire standard,CDF,"677466,91",0,"677466,91",0,31B7263485034945Y,,,,8196,0,0,P-01977658,8AB58159D3898574U
-7/30/2021,14:00:53,America/Los_Angeles,Paiement préapprouvé d'un utilisateur de facture de paiement,EUR,"-275,88",0,"-275,88","-275,88",8AB58159D3898574U,paypalpro@prezi.com,Prezi Inc,,,0,0,P-01977658,B-2CK200531T472144B
-7/30/2021,14:00:53,America/Los_Angeles,Conversion de devise standard,EUR,"275,88",0,"275,88",0,0NW7313201885850N,,,,,0,0,P-01977658,8AB58159D3898574U
-8/18/2021,20:04:15,America/Los_Angeles,Paiement préapprouvé d'un utilisateur de facture de paiement,USD,"-9,99",0,"-9,99","-9,99",8LV557609N050633R,paypal_row@netflix.com,Netflix.com,,,0,0,50648726478,B-29C065641H103923F
-8/18/2021,20:04:15,America/Los_Angeles,Conversion de devise standard,USD,"9,99",0,"9,99",0,5JC60224GY800210X,,,,,0,0,50648726478,8LV557609N050633R
-8/18/2021,20:04:15,America/Los_Angeles,Virement par carte bancaire standard,CDF,"20639,76",0,"20639,76","20639,76",3GP51346ER058004Y,,,,8196,0,0,50648726478,8LV557609N050633R
-8/18/2021,20:04:15,America/Los_Angeles,Conversion de devise standard,CDF,"-20639,76",0,"-20639,76",0,24V06810929294827,,,,,0,0,50648726478,8LV557609N050633R
-8/2/2021,09:19:23,America/Los_Angeles,Virement par carte bancaire standard,CDF,"255698,09",0,"255698,09","255698,09",1Y34525682375344Y,,,,8196,0,0,153591900-TPAL11092732F,83Y65247FL8037640
-8/2/2021,09:19:23,America/Los_Angeles,Conversion de devise standard,CDF,"-255698,09",0,"-255698,09",0,1A1366743U385713U,,,,,0,0,153591900-TPAL11092732F,83Y65247FL8037640
-8/2/2021,09:19:23,America/Los_Angeles,Paiement préapprouvé d'un utilisateur de facture de paiement,EUR,"-104,03",0,"-104,03","-104,03",83Y65247FL8037640,paypal@ovh.net,OVH,,,0,0,153591900-TPAL11092732F,3E791340A08639233
-8/2/2021,09:19:23,America/Los_Angeles,Conversion de devise standard,EUR,"104,03",0,"104,03",0,0W871973NP617884S,,,,,0,0,153591900-TPAL11092732F,83Y65247FL8037640
+Date,Heure,Fuseau horaire,Nom,Type,État,Devise,Avant commission,Commission,Net,De l'adresse email,À l'adresse email,Numéro de transaction,Adresse de livraison,État de l'adresse,Titre de l'objet,Numéro de l'objet,Montant des frais d'expédition et de traitement,Montant de l'assurance,TVA,Nom de l'option 1,Valeur de l'option 1,Nom de l'option 2,Valeur de l'option 2,Numéro de la transaction de référence,Numéro de facture,Numéro de client,Quantité,Numéro de reçu,Solde,Adresse,Adresse (suite)/District/Quartier,Ville,État/Province/Région/Comté/Territoire/Préfecture/République,Code postal,Pays,Numéro de téléphone du contact,Objet,Remarque,Indicatif pays,Impact sur le solde
+01/01/2021,00:37:18,PST,Supplier_a,Paiement préapprouvé d'un utilisateur de facture de paiement,Terminé,EUR,"-1,2",0,"-1,2",info@example.com,paypal@Supplier_a.net,12Y48613869993439,,Non-confirmé,,,0,,0,,,,,8XP09951U6007223S,139643740-TPAL7579472F,,1,,"-1,2",,,,,,,,,,,Débit
+01/01/2021,00:37:18,PST,,Conversion de devise standard,Terminé,CDF,"-3025,54",0,"-3025,54",info@example.com,,8TG93162JF3342324,,,,,0,,0,,,,,12Y48613869993439,139643740-TPAL7579472F,,1,,"-3025,54",,,,,,,,,,,Débit
+01/01/2021,00:37:18,PST,,Conversion de devise standard,Terminé,EUR,"1,2",0,"1,2",,info@example.com,1AM00660BV361841A,,,,,0,,0,,,,,12Y48613869993439,139643740-TPAL7579472F,,1,,0,,,,,,,,,,,Crédit
+01/01/2021,00:37:18,PST,,Virement par carte bancaire standard,Terminé,CDF,"3025,54",0,"3025,54",,info@example.com,9U130921SJ0551544,,,,,0,,0,,,,,12Y48613869993439,139643740-TPAL7579472F,,1,,0,,,,,,,,,,,Crédit
+02/01/2021,10:03:19,PST,Supplier_a,Paiement préapprouvé d'un utilisateur de facture de paiement,Terminé,EUR,"-102,83",0,"-102,83",info@example.com,paypal@Supplier_a.net,6CF58172XN020825J,,Non-confirmé,,,0,,0,,,,,8LH38206FV640282W,140149580-TPAL7643253F,,1,,"-102,83",,,,,,,,,,,Débit
+02/01/2021,10:03:19,PST,,Conversion de devise standard,Terminé,CDF,"-259263,43",0,"-259263,43",info@example.com,,9WC74297MU121771N,,,,,0,,0,,,,,6CF58172XN020825J,140149580-TPAL7643253F,,1,,"-259263,43",,,,,,,,,,,Débit
+02/01/2021,10:03:19,PST,,Conversion de devise standard,Terminé,EUR,"102,83",0,"102,83",,info@example.com,3L67903627438635U,,,,,0,,0,,,,,6CF58172XN020825J,140149580-TPAL7643253F,,1,,0,,,,,,,,,,,Crédit
+02/01/2021,10:03:19,PST,,Virement par carte bancaire standard,Terminé,CDF,"259263,43",0,"259263,43",,info@example.com,92D96684NL702683C,,,,,0,,0,,,,,6CF58172XN020825J,140149580-TPAL7643253F,,1,,0,,,,,,,,,,,Crédit
+17/01/2021,19:37:18,PST,,Virement par carte bancaire standard,Terminé,CDF,"20516,96",0,"20516,96",,info@example.com,9AR64993JE9966453,,,,,0,,0,,,,,5M5282599M757994U,44608946718,,1,,"20516,96",,,,,,,,,,,Crédit
+17/01/2021,19:37:18,PST,Supplier_b.com,Paiement préapprouvé d'un utilisateur de facture de paiement,Terminé,USD,"-9,99",0,"-9,99",info@example.com,paypal_row@Supplier_b.com,5M5282599M757994U,,Non-confirmé,,,0,,0,,,,,B-29C065641H103923F,44608946718,,1,,"-9,99",,,,,,,,,,,Débit
+17/01/2021,19:37:18,PST,,Conversion de devise standard,Terminé,CDF,"-20516,96",0,"-20516,96",info@example.com,,80Y31404P6639091E,,,,,0,,0,,,,,5M5282599M757994U,44608946718,,1,,0,,,,,,,,,,,Débit
+17/01/2021,19:37:18,PST,,Conversion de devise standard,Terminé,USD,"9,99",0,"9,99",,info@example.com,6GT11809NA747921F,,,,,0,,0,,,,,5M5282599M757994U,44608946718,,1,,0,,,,,,,,,,,Crédit
+31/01/2021,22:22:23,PST,,Virement par carte bancaire standard,Terminé,CDF,"2998,6",0,"2998,6",,info@example.com,5U774510YS0311836,,,,,0,,0,,,,,6DW0555857116094S,141550088-TPAL8027223F,,1,,"2998,6",,,,,,,,,,,Crédit
