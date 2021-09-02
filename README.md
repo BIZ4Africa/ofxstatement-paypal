@@ -29,5 +29,5 @@ python3 setup.py install
 From Paypal Web interface, download a CSV personnalized report for the period you wish.
 
 ```
-$ ofxstatement convert -t paypal input.csv output.ofx
+$ ofxstatement convert -t paypal-ng input.csv output.ofx
 ```

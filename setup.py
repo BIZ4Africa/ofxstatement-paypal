@@ -31,7 +31,7 @@ setup(name='ofxstatement-paypal',
       package_dir={'': 'src'},
       namespace_packages=['ofxstatement', 'ofxstatement.plugins'],
       entry_points={
-          'ofxstatement': ['paypal = ofxstatement.plugins.paypal:PayPalPlugin']
+          'ofxstatement': ['paypal-ng = ofxstatement.plugins.paypal:PayPalPlugin']
       },
       install_requires=['ofxstatement'],
       test_suite='ofxstatement.plugins.tests',
