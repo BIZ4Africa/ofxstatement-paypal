@@ -5,7 +5,7 @@ from datetime import datetime
 from decimal import Decimal as D
 
 from ofxstatement import statement
-from ofxstatement.statement import generate_transaction_id, StatementLine
+from ofxstatement.statement import generate_transaction_id, StatementLine, Currency
 from ofxstatement.statement import generate_unique_transaction_id
 
 from ofxstatement.parser import CsvStatementParser
@@ -127,7 +127,7 @@ class PayPalParser(CsvStatementParser):
         smt_line = StatementLine()
         smt_line.id = line[id_idx]
         smt_line.date = datetime.strptime(line[date_idx], self.date_format)
-        smt_line.currency = line[currency_idx]
+        smt_line.currency = Currency(line[currency_idx])
         smt_line.amount = D(line[amount_idx].replace(',','.').replace(u'\xa0',''))
         smt_line.trntype = "DEBIT" if smt_line.amount < 0 else "CREDIT"
 
