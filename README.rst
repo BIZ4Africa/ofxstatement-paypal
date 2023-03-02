@@ -1,5 +1,5 @@
-.. image:: https://travis-ci.org/themalkolm/ofxstatement-paypal.svg?branch=master
-    :target: https://travis-ci.org/themalkolm/ofxstatement-paypal
+.. image:: https://travis-ci.org/EtsBiz4africa/ofxstatement-paypal.svg?branch=master
+    :target: https://travis-ci.org/EtsBiz4africa/ofxstatement-paypal
 
 ofxstatement-paypal
 ===================
