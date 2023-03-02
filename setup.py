@@ -10,8 +10,8 @@ with open('README.md') as f:
 
 setup(name='ofxstatement-paypal',
       version=version,
-      author='Alexander Krasnukhin',
-      author_email='the.malkolm@gmail.com',
+      author='Business Solutions For Africa',
+      author_email='info@biz-4-africa.com',
       url='https://github.com/EtsBiz4africa/ofxstatement-paypal',
       description=('ofxstatement plugins for paypal'),
       long_description=open("README.md").read(),
