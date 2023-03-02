@@ -21,7 +21,7 @@ pip3 install ofxstatement-paypal
 
 ### From source
 ```
-git clone git@github.com:BIZ4Africa/ofxstatement-paypal.git 
+git clone git@github.com:EtsBIZ4Africa/ofxstatement-paypal.git 
 python3 setup.py install
 ```
 
